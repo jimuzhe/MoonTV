@@ -228,11 +228,11 @@ function LoginPageClient() {
             </button>
           )}
         </form>
-{/*       </div>
+      </div>
 
       {/* 版本信息显示 */}
-      <VersionDisplay />
-    </div> */}
+{/*       <VersionDisplay /> */}
+    </div>
   );
 }
 
